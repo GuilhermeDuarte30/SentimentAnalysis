@@ -14,6 +14,8 @@ TrabalhoTM.pptx->apresentação do trabalho
 
 ########################################
 
+#English:
+
 Project for the Text Mining for Data Science course carried out by me (Guilherme Duarte) and my colleague Ana Pinto
 
 Files:
