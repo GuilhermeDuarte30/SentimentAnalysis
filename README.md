@@ -12,6 +12,12 @@ relatorioTM_GuilhermeAna.pdf->relatório do trabalho
 
 TrabalhoTM.pptx->apresentação do trabalho
 
+train.csv->conjunto de treino
+
+test.csv->conjunto de teste
+
+NCR-lexicon.csv->léxico de sentimentos
+
 ########################################
 
 #English:
@@ -25,3 +31,9 @@ Trabalho de analise de sentimentos.ipynb->code file
 relatorioTM_GuilhermeAna.pdf->project report
 
 TrabalhoTM.pptx->project apresentation
+
+train.csv->training set
+
+test.csv->test set
+
+NCR-lexicon.csv->sentiment lexicon
